@@ -80,16 +80,15 @@ section {
     margin: auto;
 }
 
-.odd-section {
-    background-color: var(--main-bg-color);
-}
-
-
 :root {
     --main-bg-color: #fde3d7;
     --reset-bg-color: #ffffff;
     --main-color: #F57536;
   }
+
+.odd-section {
+    background-color: var(--main-bg-color);
+}
 
 /* HEADER */
 
